@@ -1,0 +1,21 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "077a86e9-9fde-49ee-a734-30e15b7f3a6b",
+    "appKeys": {
+        "status": 0,
+        "message": 1
+    },
+    "longName": "tebblo - tado\u00b0 control ",
+    "versionCode": 1,
+    "capabilities": [
+        "configurable"
+    ],
+    "shortName": "tebblo",
+    "companyName": "pebble@matthiasgasser.net",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
